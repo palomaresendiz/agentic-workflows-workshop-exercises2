@@ -95,6 +95,11 @@ Define when to recommend each suggested-team label:
 - suggested-team/developer-experience
 - suggested-team/support-triage
 -->
+Categorize the priority of the bug report as follows:
+
+- priorirty/p0 - complete outage or unrecoverable loss
+- priority/p1 - blocking bug with no workaround
+- priority/p2 - low impact bug or major bug with workaround
 
 ## 4. Find duplicates and related issues
 
